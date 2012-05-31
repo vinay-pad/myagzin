@@ -1,0 +1,2 @@
+.pressthis a span{background:url(../images/press-this.png) no-repeat -45px 5px;padding:8px 0 8px 32px;display:inline-block;}
+.pressthis a:after{content:'';width:70%;height:55%;z-index:-1;position:absolute;right:10px;bottom:9px;background:transparent;transform:skew(20deg) rotate(6deg);-webkit-transform:skew(20deg) rotate(6deg);-moz-transform:skew(20deg) rotate(6deg);box-shadow:0 10px 8px rgba(0,0,0,0.6);-webkit-box-shadow:0 10px 8px rgba(0,0,0,0.6);-moz-box-shadow:0 10px 8px rgba(0,0,0,0.6);}#utc-time,#local-time{padding-left:25px;font-style:italic;font-family:sans-serif;}
